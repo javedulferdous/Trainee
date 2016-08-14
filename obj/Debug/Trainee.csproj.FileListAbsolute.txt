@@ -1,0 +1,5 @@
+E:\Batch23\Trainee\bin\Debug\Trainee.exe.config
+E:\Batch23\Trainee\bin\Debug\Trainee.exe
+E:\Batch23\Trainee\bin\Debug\Trainee.pdb
+E:\Batch23\Trainee\obj\Debug\Trainee.exe
+E:\Batch23\Trainee\obj\Debug\Trainee.pdb
